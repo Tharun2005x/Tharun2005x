@@ -17,8 +17,11 @@
 
 <p align="center">
   <a href="https://github.com/Tharun2005x"><img src="https://img.shields.io/badge/GitHub-Tharun2005x-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+  <a href="https://www.linkedin.com/in/g-tharun-510658324/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
   <a href="mailto:g.tharun01gowda@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
   <a href="https://github.com/Tharun2005x"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
