@@ -1,218 +1,254 @@
-# GitHub Profile README
+# README.md
 
-# Hi 👋, I'm G Tharun
+<div align="center">
 
-### AI/ML Enthusiast | Generative AI Developer | B.Tech CSE (Generative AI) Student
+# A Tharun
 
-I am a Computer Science and Engineering student specializing in **Generative AI** at Lovely Professional University. I am passionate about building intelligent applications using **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and backend technologies**.
+</div>
 
-I enjoy working on real-world projects involving AI-powered applications, document processing, semantic search, automation, and secure systems. I am continuously learning and improving my skills in **Python, AI/ML, Generative AI, backend development, cloud technologies, and data structures & algorithms**.
+<br>
+
+<div align="center">
+
+```text
+AI/ML Engineer 🤖
+```
+
+### AI/ML Engineer | Generative AI | RAG & LLMs
+
+Building practical AI and machine learning systems with Python, Generative AI, RAG, LLMs and backend technologies.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-THARUN2005X-333?style=for-the-badge\&logo=github)](https://github.com/Tharun2005x)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge\&logo=gmail)](mailto:g.tharun01gowda@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-6C63FF?style=for-the-badge\&logo=google-chrome)](YOUR_PORTFOLIO_URL)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tharun2005x\&label=PROFILE+VIEWS\&color=blue\&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Tharun2005x?label=FOLLOWERS\&style=flat-square)](https://github.com/Tharun2005x?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Tharun2005x?label=STARS\&style=flat-square)](https://github.com/Tharun2005x)
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-* 🎓 B.Tech in Computer Science and Engineering (Generative AI)
-* 🤖 Interested in Artificial Intelligence, Machine Learning, LLMs, and RAG
-* 🔭 Currently building AI-powered applications and intelligent systems
-* 🌱 Exploring Generative AI, LangChain, vector databases, and cloud technologies
-* 💡 Interested in solving real-world problems using AI
-* 📫 Reach me at: **[g.tharun01gowda@gmail.com](mailto:g.tharun01gowda@gmail.com)**
+```javascript
+tharun = {
+    "name": "G Tharun",
+    "role": "AI/ML Engineer",
+    "focus": [
+        "Generative AI",
+        "Machine Learning",
+        "Retrieval Augmented Generation",
+        "Large Language Models"
+    ],
+    "education": "B.Tech CSE - Generative AI Specialization",
+    "university": "Lovely Professional University",
+    "location": "India",
+    "interests": [
+        "AI/ML",
+        "Generative AI",
+        "RAG",
+        "LLMs",
+        "Backend Development"
+    ],
+    "currently_learning": [
+        "Advanced RAG Systems",
+        "AI Agents",
+        "Vector Databases",
+        "Machine Learning"
+    ]
+}
+```
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
-</p>
+### Languages
 
-* Java
-* Python
-* C
-* C++
-* JavaScript
-* Data Structures & Algorithms
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### 🤖 Artificial Intelligence & Machine Learning
+### AI / Machine Learning
 
-* PyTorch
-* TensorFlow
-* Scikit-learn
-* LangChain
-* Google Gemini API
-* TF-IDF
-* Pandas
-* NumPy
-* Matplotlib
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 
-### ⚙️ Backend Development
+### Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,spring" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-* Spring Boot
-* REST APIs
-* Flask
-* FastAPI
+### Cloud & Tools
 
-### 🗄️ Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-* SQL
-* MySQL
-* ChromaDB
-
-### ☁️ Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
-</p>
-
-* AWS EC2
-* AWS VPC
-* AWS IAM
-* AWS CloudWatch
-* AWS KMS
-* Git
-* GitHub
-* Postman
-* VS Code
-* n8n
-
-### 🌐 Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-* HTML
-* CSS
-* JavaScript
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 RAG Chatbot – Retrieval Augmented Generation
+## 🤖 RAG Chatbot
 
-Developed a Streamlit-based **RAG chatbot** capable of processing multiple document formats and providing context-aware responses.
+```yaml
+description: >
+  A Retrieval Augmented Generation chatbot that processes
+  multiple document formats and provides context-aware responses.
 
-### Key Features
+features:
+  - PDF, TXT, DOCX and CSV document support
+  - Semantic search using embeddings
+  - ChromaDB vector database
+  - Contextual compression
+  - Cohere re-ranking
+  - Multi-model integration
+  - Multilingual assistant support
 
-* 📄 Supports PDF, TXT, DOCX, and CSV documents
-* 🔍 Semantic search using embeddings and ChromaDB
-* 🧠 Contextual compression for improved retrieval
-* 🎯 Cohere re-ranking for more relevant context
-* 🤖 Integrated OpenAI, Google Generative AI, and Hugging Face models
-* 🌍 Multilingual assistant support
-* 💬 Conversational retrieval system
-
-### Tech Stack
-
-`Python` `Streamlit` `LangChain` `ChromaDB` `Cohere` `OpenAI` `Google Generative AI` `Hugging Face`
+tech_stack:
+  - Python
+  - Streamlit
+  - LangChain
+  - ChromaDB
+  - Cohere
+  - OpenAI
+  - Google Generative AI
+  - Hugging Face
+```
 
 ---
 
 ## 🧑‍💻 AI Candidate Screening & Interview System
 
-Developed an AI-powered system for analyzing candidate resumes against job descriptions using **Retrieval-Augmented Generation (RAG)**.
+```yaml
+description: >
+  An AI-powered system that analyzes resumes against job
+  descriptions using Retrieval Augmented Generation.
 
-### Key Features
+features:
+  - PDF resume parsing
+  - Text extraction
+  - Embeddings and vector retrieval
+  - Resume and job description matching
+  - Matched and missing skill detection
+  - AI-generated interview questions
+  - Candidate response evaluation
 
-* 📄 PDF resume parsing and text extraction
-* 🧠 Embedding generation and vector-based retrieval
-* 🎯 Resume and job description matching
-* 📊 Identification of matched and missing skills
-* 🤖 AI-generated technical interview questions
-* 💬 Candidate response evaluation
-* 📈 Candidate suitability analysis
-
-### Tech Stack
-
-`Python` `FastAPI` `RAG` `LLM` `OpenAI` `ChromaDB` `JavaScript` `HTML` `CSS`
+tech_stack:
+  - Python
+  - FastAPI
+  - RAG
+  - LLMs
+  - OpenAI
+  - ChromaDB
+  - JavaScript
+  - HTML
+  - CSS
+```
 
 ---
 
 ## 🔐 Secure File Management System
 
-Developed a secure web application that enables users to upload, store, and manage files safely.
+```yaml
+description: >
+  A secure web application for uploading, storing and
+  managing files with authentication and authorization.
 
-### Key Features
+features:
+  - Secure file upload
+  - User authentication
+  - Authorization
+  - File encryption
+  - Secure storage
+  - Data confidentiality protection
 
-* 🔑 User authentication and authorization
-* 📁 Secure file upload and management
-* 🔒 File encryption and secure storage
-* 🛡️ Protection of data confidentiality and integrity
-
-### Tech Stack
-
-`Python` `Flask` `HTML` `CSS` `JavaScript` `GitHub`
+tech_stack:
+  - Python
+  - Flask
+  - HTML
+  - CSS
+  - JavaScript
+```
 
 ---
 
 # 💼 Experience
 
-## Bluestock Fintech | Internship
+```text
+BLUESTOCK FINTECH
+Intern
 
-**Jan 2026 – Feb 2026**
+JAN 2026 — FEB 2026
 
-* 📊 Analyzed business datasets to generate actionable insights.
-* 🗃️ Worked with SQL and spreadsheets for data analysis and reporting.
-* 📈 Assisted in creating dashboards and visualizations.
+→ Analyzed business datasets to generate actionable insights.
+→ Worked with SQL and spreadsheets for data analysis and reporting.
+→ Assisted in creating dashboards and visualizations.
+```
 
 ---
 
 # 🏆 Certifications
 
-* 🟦 Microsoft Certified: Azure AI Engineer Associate — AI-102
-* 🟦 Microsoft Certified: Azure AI Fundamentals — AI-900
-* 🟦 Microsoft Certified: Azure Data Fundamentals — DP-900
-* 🟦 Microsoft Certified: Azure Fundamentals — AZ-900
+```text
+✓ Azure AI Engineer Associate (AI-102) — Microsoft
+✓ Azure AI Fundamentals (AI-900) — Microsoft
+✓ Azure Data Fundamentals (DP-900) — Microsoft
+✓ Azure Fundamentals (AZ-900) — Microsoft
+```
 
 ---
 
 # 🏅 Achievement
 
-🥇 **1st Place – Robo Soccer Competition**
+```text
+🥇 1st Place
 
-Secured **1st Place** in the Robo Soccer Competition at the **IIT Ropar National Event Hackathon**.
-
----
-
-# 🎓 Education
-
-### Lovely Professional University
-
-**Bachelor of Technology – Computer Science and Engineering (Generative AI)**
-
-CGPA: **8.2**
-
-Aug 2024 – Present
+IIT Ropar National Event Hackathon
+Robo Soccer Competition
+```
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
 
-<p>
-<a href="https://github.com/Tharun2005x">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="mailto:g.tharun01gowda@gmail.com">
-📧 Email
-</a>
-</p>
+<div align="center">
 
-**GitHub:** https://github.com/Tharun2005x
+<img src="https://github-readme-stats.vercel.app/api?username=Tharun2005x&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun2005x&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### 💡 "Building intelligent solutions and continuously learning to transform ideas into real-world applications through AI."
+<div align="center">
+
+### 💡 Building intelligent systems, learning continuously, and turning AI ideas into real-world applications.
+
+<br>
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
