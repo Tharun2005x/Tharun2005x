@@ -1,60 +1,44 @@
-# Hi, I'm Tharun 👋
+# Hi 👋, I'm G Tharun
 
 ### AI/ML Engineer | Generative AI | Machine Learning | Backend Development
 
-Building practical AI and software solutions using **Python, Machine Learning, Generative AI, RAG, LangChain, and backend technologies.**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Tharun2005x&label=Profile%20views&color=0e75b6&style=flat" alt="Tharun2005x" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```python
-tharun = {
-    "name": "G Tharun",
-    "role": "AI/ML Engineer",
-    "education": "B.Tech CSE - Generative AI",
-    "university": "Lovely Professional University",
-    "cgpa": "8.2",
-    "focus": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Generative AI",
-        "Retrieval-Augmented Generation",
-        "Backend Development",
-        "Cloud Computing",
-        "Cybersecurity"
-    ],
-    "languages": [
+I'm a Computer Science Engineering student specializing in **Generative AI** at **Lovely Professional University**, with a strong interest in Artificial Intelligence, Machine Learning, Generative AI, RAG systems, backend development, cloud computing, and cybersecurity.
 
-        "Java",
-        "Python",
-        "C",
-        "C++"
-    ],
-    "currently_learning": [
-        "Advanced RAG",
-        "LLM Applications",
-        "AI Engineering",
-        "Machine Learning"
-    ]
-}
+I enjoy building practical AI-powered applications that solve real-world problems and combining machine learning with modern backend technologies.
 
-print("Building intelligent systems and learning every day 🚀")
-```
+- 🎓 B.Tech Computer Science and Engineering (Generative AI)
+- 📊 CGPA: **8.2**
+- 🤖 Interested in **AI/ML and Generative AI**
+- 🧠 Building applications using **RAG and LLMs**
+- 🔎 Interested in **AI-powered document processing**
+- 👨‍💼 Working on **AI candidate screening and interview systems**
+- ☁️ Exploring **AWS Cloud**
+- 🔐 Interested in **Cybersecurity**
+- 💻 Strong foundation in **Data Structures & Algorithms**
 
 ---
 
 ## 🎯 What I Work On
 
-* 🤖 **Machine Learning** — building practical ML models and data-driven applications
-* 🧠 **Generative AI** — LLM applications, LangChain, prompt-based systems and AI assistants
-* 🔎 **Retrieval-Augmented Generation** — embeddings, vector databases, semantic retrieval and reranking
-* 📄 **AI Document Processing** — extracting and processing information from different document formats
-* 👨‍💼 **AI Candidate Screening** — resume analysis, job matching and AI-powered technical interviews
-* 🔐 **Cybersecurity** — authentication, authorization, secure file storage and security best practices
-* ☁️ **Cloud Computing** — AWS services and cloud-based application development
-* ⚙️ **Backend Development** — REST APIs, Spring Boot and Flask
-* 🧩 **Data Structures & Algorithms** — BFS, DFS, Dijkstra's Algorithm, Knapsack and Greedy Algorithms
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Generative AI & LLM Applications**
+- 🔎 **Retrieval-Augmented Generation (RAG)**
+- 📚 **LangChain & Vector Databases**
+- 📄 **Document Processing & Information Retrieval**
+- 👨‍💼 **AI Candidate Screening Systems**
+- 💬 **AI Chatbots & AI Assistants**
+- ⚙️ **Backend Development & REST APIs**
+- 🔐 **Cybersecurity & Secure Applications**
+- ☁️ **AWS Cloud Technologies**
+- 🧩 **Data Structures & Algorithms**
 
 ---
 
@@ -62,97 +46,96 @@ print("Building intelligent systems and learning every day 🚀")
 
 ## 🤖 RAG Chatbot
 
-**Generative AI • LangChain • ChromaDB • LLMs**
+A Retrieval-Augmented Generation chatbot built using LangChain that can process multiple document formats and provide context-aware responses.
 
-A Retrieval-Augmented Generation chatbot capable of ingesting multiple document formats and providing context-aware responses.
+### Key Features
 
-### Highlights
+- 📄 Ingests **PDF, TXT, DOCX and CSV** documents
+- ✂️ Performs document chunking
+- 🔎 Uses semantic retrieval
+- 🧠 Stores embeddings in **ChromaDB**
+- 🎯 Uses contextual compression
+- 🔄 Implements **Cohere re-ranking**
+- 🤖 Supports multiple LLM providers
+- 🌐 Integrated **OpenAI, Google Generative AI and Hugging Face**
+- 💬 Supports conversational retrieval
+- 🌍 Supports multilingual assistant functionality
 
-* 📄 Supports **PDF, TXT, DOCX and CSV** documents
-* ✂️ Splits documents into manageable chunks for retrieval
-* 🔎 Uses vector-based semantic retrieval
-* 🧠 Stores embeddings using **ChromaDB**
-* 🎯 Uses contextual compression for improved retrieval
-* 🔄 Implements **Cohere re-ranking**
-* 🌐 Supports multiple model providers
-* 🤖 Integrated **OpenAI, Google Generative AI and Hugging Face**
-* 💬 Supports conversational and multilingual interactions
+### Tech Stack
 
-**Tech Stack:**
 `Python` `Streamlit` `LangChain` `ChromaDB` `Cohere` `OpenAI` `Google Generative AI` `Hugging Face`
-
-🔗 [View Repository](https://github.com/Tharun2005x)
 
 ---
 
 ## 🧠 AI Candidate Screening & Interview System
 
-**Artificial Intelligence • RAG • LLM • Resume Analysis**
+An AI-powered candidate screening system that analyzes resumes against job descriptions and provides role-based technical interview functionality.
 
-An AI-powered candidate screening and interview system designed to analyze resumes against job descriptions and conduct role-based technical interviews.
+### Key Features
 
-### Highlights
+- 📄 PDF resume parsing
+- 📝 Resume text extraction
+- 🔎 Resume and job-description analysis
+- 🧠 Retrieval-Augmented Generation
+- 📊 Embeddings and vector-based retrieval
+- 🎯 Identifies matched skills
+- ❌ Identifies missing skills
+- 📈 Evaluates candidate suitability
+- 💬 Generates technical interview questions
+- 🎤 Provides AI mock interviews
+- 📝 Evaluates candidate responses
 
-* 📄 PDF resume parsing and text extraction
-* 🔎 Resume and job-description analysis
-* 🧠 Retrieval-Augmented Generation architecture
-* 📊 Embeddings and vector-based retrieval
-* 🎯 Identifies matched and missing skills
-* 👨‍💼 Evaluates candidate suitability
-* 💬 Generates technical interview questions
-* 🎤 AI-powered mock interview module
-* 📝 Evaluates candidate responses
+### Tech Stack
 
-**Tech Stack:**
 `Python` `FastAPI` `RAG` `LLM` `OpenAI` `ChromaDB` `JavaScript` `HTML` `CSS`
-
-🔗 [View Repository](https://github.com/Tharun2005x)
 
 ---
 
 ## 🔐 Secure File Management System
 
-**Cybersecurity • Flask • Authentication • Encryption**
+A secure file management web application designed to safely upload, store and manage files.
 
-A secure web application designed to allow users to upload, store and manage files while protecting sensitive information.
+### Key Features
 
-### Highlights
+- 🔑 User authentication
+- 🛡️ Authorization
+- 📁 Secure file management
+- 🔒 File encryption
+- 🗄️ Secure storage mechanisms
+- 🔐 Protection of sensitive files
+- 🛡️ Focus on confidentiality and data integrity
 
-* 🔑 User authentication
-* 🛡️ Authorization and access control
-* 📁 Secure file upload and management
-* 🔒 File encryption
-* 🗄️ Secure storage mechanisms
-* 🛡️ Focus on data confidentiality and integrity
+### Tech Stack
 
-**Tech Stack:**
 `Python` `Flask` `HTML` `CSS` `JavaScript` `GitHub`
-
-🔗 [View Repository](https://github.com/Tharun2005x/SECURE-FILE-MANAGEMENT-SYSTEM)
 
 ---
 
 # 🛠️ Technology Stack
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-### 🧠 Machine Learning & AI
+### 🤖 Machine Learning & AI
 
-`PyTorch` `TensorFlow` `Scikit-learn` `LangChain` `Google Gemini API` `TF-IDF` `Pandas` `NumPy` `Matplotlib`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-### 🤖 Generative AI
+`PyTorch` `TensorFlow` `Scikit-learn` `TF-IDF` `Pandas` `NumPy` `Matplotlib`
 
-`RAG` `LLMs` `LangChain` `OpenAI` `Google Generative AI` `Hugging Face` `ChromaDB`
+### 🧠 Generative AI
 
-### ⚙️ Backend Development
+`LangChain` `Google Gemini API` `RAG` `LLMs` `OpenAI` `Google Generative AI` `Hugging Face` `ChromaDB`
+
+### ⚙️ Backend Technologies
 
 `Spring Boot` `REST APIs` `Flask`
 
-### 🌐 Frontend
+### 🌐 Frontend Technologies
 
 `HTML` `CSS` `JavaScript`
 
@@ -160,9 +143,9 @@ A secure web application designed to allow users to upload, store and manage fil
 
 `SQL` `MySQL`
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud
 
-`AWS EC2` `AWS VPC` `AWS IAM` `AWS CloudWatch` `AWS KMS` `Git` `GitHub`
+`AWS EC2` `AWS VPC` `AWS IAM` `AWS CloudWatch` `AWS KMS`
 
 ### 🔐 Cybersecurity
 
@@ -172,9 +155,13 @@ A secure web application designed to allow users to upload, store and manage fil
 
 `TCP/IP` `OSI Model` `Routing & Switching` `DNS` `DHCP` `HTTP/HTTPS`
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
 `Git` `GitHub` `Postman` `VS Code` `n8n`
+
+### 🧩 Data Structures & Algorithms
+
+`Dijkstra's Algorithm` `Knapsack` `Greedy` `BFS` `DFS`
 
 ---
 
@@ -182,9 +169,10 @@ A secure web application designed to allow users to upload, store and manage fil
 
 ### 🎓 Lovely Professional University
 
-**Bachelor of Technology — Computer Science and Engineering (Generative AI)**
+**Bachelor of Technology - Computer Science and Engineering (Generative AI)**
 
 📅 Since August 2024
+
 📊 **CGPA: 8.2**
 
 ---
@@ -193,7 +181,8 @@ A secure web application designed to allow users to upload, store and manage fil
 
 **Intermediate**
 
-📅 June 2022 – May 2024
+📅 June 2022 - May 2024
+
 📊 **Percentage: 88.0%**
 
 ---
@@ -202,7 +191,8 @@ A secure web application designed to allow users to upload, store and manage fil
 
 **Matriculation**
 
-📅 June 2021 – April 2022
+📅 June 2021 - April 2022
+
 📊 **Percentage: 76.6%**
 
 ---
@@ -211,38 +201,44 @@ A secure web application designed to allow users to upload, store and manage fil
 
 ## Bluestock Fintech
 
-**Jan 2026 – Feb 2026**
+**Jan 2026 - Feb 2026**
 
-* 📊 Analyzed business datasets to generate actionable insights
-* 🗃️ Worked with SQL and spreadsheets for data analysis and reporting
-* 📈 Assisted in creating dashboards and visualizations
+- 📊 Analyzed business datasets to generate actionable insights
+- 🗃️ Worked with SQL and spreadsheets for data analysis and reporting
+- 📈 Assisted in creating dashboards and visualizations
 
 ---
 
 # 📜 Certifications
 
-* 🏅 **Microsoft Azure AI Engineer Associate — AI-102**
-* 🏅 **Microsoft Azure AI Fundamentals — AI-900**
-* 🏅 **Microsoft Azure Data Fundamentals — DP-900**
-* 🏅 **Microsoft Azure Fundamentals — AZ-900**
+- 🏅 **Azure AI Engineer Associate (AI-102)** — Microsoft
+- 🏅 **Azure AI Fundamentals (AI-900)** — Microsoft
+- 🏅 **Azure Data Fundamentals (DP-900)** — Microsoft
+- 🏅 **Azure Fundamentals (AZ-900)** — Microsoft
 
 ---
 
 # 🏆 Achievements
 
-### 🥇 IIT ROPAR — National Event Hackathon
+### 🥇 IIT ROPAR - National Event Hackathon
 
 **Secured 1st Place in Robo Soccer Competition**
 
-Participated in a national-level hackathon at IIT Ropar and secured **1st place** in the Robo Soccer competition.
+Participated in the IIT Ropar National Event Hackathon and secured **1st place in the Robo Soccer Competition**.
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun2005x&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun2005x&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Tharun2005x&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun2005x&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
@@ -250,7 +246,9 @@ Participated in a national-level hackathon at IIT Ropar and secured **1st place*
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun2005x&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun2005x&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -258,23 +256,46 @@ Participated in a national-level hackathon at IIT Ropar and secured **1st place*
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tharun2005x/Tharun2005x/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/Tharun2005x/Tharun2005x/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-```text
-Artificial Intelligence    ████████████████████  Building AI Applications
-Generative AI              ███████████████████░  RAG & LLM Applications
-Machine Learning           ██████████████████░░  Model Development
-AI Engineering             █████████████████░░░  Practical AI Systems
-Backend Development        ████████████████░░░░  APIs & Applications
-Cloud & Security           ███████████████░░░░░  AWS & Secure Systems
-```
+<p align="center">
 
-> 💡 **Goal:** Build practical AI and software systems that solve real-world problems while continuously improving my skills in Artificial Intelligence, Generative AI, Machine Learning, Backend Development and Cloud Computing.
+### 🤖 Artificial Intelligence
+Building practical AI-powered applications
+
+### 🧠 Generative AI
+Working with LLMs, LangChain and RAG
+
+### 🔎 Retrieval-Augmented Generation
+Building document-based intelligent systems
+
+### 👨‍💼 AI Candidate Screening
+Developing intelligent resume analysis and interview systems
+
+### ⚙️ Backend Development
+Building REST APIs and backend applications
+
+### ☁️ Cloud Computing
+Learning and implementing AWS cloud services
+
+### 🔐 Cybersecurity
+Building secure applications and learning security best practices
+
+</p>
+
+---
+
+## 🚀 Goal
+
+> **Build practical AI and software systems that solve real-world problems while continuously improving my skills in Artificial Intelligence, Machine Learning, Generative AI, Backend Development, Cloud Computing and Cybersecurity.**
 
 ---
 
@@ -283,15 +304,11 @@ Cloud & Security           ███████████████░░�
 <p align="center">
 
 <a href="https://github.com/Tharun2005x">
-<img src="https://img.shields.io/badge/GitHub-Tharun2005x-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Tharun2005x-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:[g.tharun01gowda@gmail.com](mailto:g.tharun01gowda@gmail.com)">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:g.tharun01gowda@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </p>
@@ -307,5 +324,7 @@ Cloud & Security           ███████████████░░�
 </p>
 
 <p align="center">
+
 ⭐ If you find my projects useful, consider giving them a star!
+
 </p>
